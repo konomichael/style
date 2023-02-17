@@ -1,2 +1,2 @@
 ## File for linters
-+ [go]()
++ [go](https://github.com/konomichael/style/blob/master/go/.golangci.yml)
