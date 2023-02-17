@@ -1,0 +1,2 @@
+## File for linters
++ [go]()
